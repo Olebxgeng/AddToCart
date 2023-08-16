@@ -2,7 +2,7 @@ html, body {
     margin: 0;
     padding: 0;
     font-family: 'Rubik', sans-serif;
-    background-color: white;
+    background-color: #EFD2CB;
     color: #432000;
     user-select: none;
 }
@@ -34,11 +34,11 @@ input{
 }
 button {
     color: #FDFDFD;
-    background-color: #AC485A;
+    background-color: #C7A27C;
 }
 
 button:hover{
-    background-color: #432000;
+    background-color: #EE9480;
     cursor: pointer;
 }
 
